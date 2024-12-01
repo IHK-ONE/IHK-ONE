@@ -1,5 +1,3 @@
-![](https://cdn.nlark.com/yuque/0/2024/png/35229002/1707803879911-23a49a7b-482a-44aa-9d63-68b849e829bd.png)
-
 # 个人信息
 + ID: IHK-1
 + Github: [https://github.com/IHK-ONE](https://github.com/IHK-ONE)
