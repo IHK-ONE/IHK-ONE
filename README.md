@@ -1,14 +1,13 @@
-# Hello 👋
-# 个人信息
+# 个人信息 👋
 + ID: IHK-1
 + Github: [https://github.com/IHK-ONE](https://github.com/IHK-ONE)
 + Github: [https://github.com/IHK-001](https://github.com/IHK-001) （已丢失）
 + School : 南昌航空大学科技学院
 
-# 个人介绍
+# 个人介绍 🧐
 星盟 / AND SEC / 划水爱好者 MISC 手
 
-# 比赛经历
+# 比赛经历 😎
 | 比赛名称 | 比赛证书 |
 | --- | --- |
 | 2023年 第20届全国大学生信息安全与对抗技术竞赛 ISCC（个人挑战赛） | 一等奖 |
