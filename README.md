@@ -1,7 +1,7 @@
 # 个人信息 👋
 + ID: IHK-1
 + Github: [https://github.com/IHK-ONE](https://github.com/IHK-ONE)
-+ Github: [https://github.com/IHK-001](https://github.com/IHK-001) （已丢失）
++ Github: [https://github.com/IHK-001](https://github.com/IHK-001) （2FA 已丢失）
 + School : 南昌航空大学科技学院
 
 # 个人介绍 🧐
